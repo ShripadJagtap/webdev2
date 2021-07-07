@@ -1,0 +1,103 @@
+.top-container{
+    background-color: #2BB7D0;
+    text-align: center;
+}
+
+.bottom-container{
+    background-color: #2BB7D0;
+    text-align: center;
+}
+.pro{
+    text-decoration: underline;
+}
+
+.intro{
+    width: 35%;
+    text-align: center;
+    margin: auto;
+}
+
+body{
+    margin: 0 0;
+    text-align: center;
+    
+}
+
+.top-cloud{
+    position: relative;
+    margin-top: 100px;
+    margin-left: 400px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    margin-bottom: 300px;
+    margin-left: 50px;
+}
+
+h1{
+    ;
+    margin: 0 0;
+    font-family: 'Pacifico', cursive;
+    font-size: 375%;
+}
+
+p{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.mountain{
+    margin-top: 40px;
+}
+
+.prog{
+    font-size: 30px;
+}
+
+h2{
+    color: #458792;
+    font-size: 30px;
+}
+
+h3{
+    color: #458792;
+    font-size: 25px;
+}
+.zoro-img{
+    margin-top: 30px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.code-img{
+    float: left;
+    margin-right: 30px;
+}
+
+.trade-img{
+    float: right;
+    margin-left: 30px;
+}
+.gaming-img{
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-row{
+    margin-top: 50px;
+}
+
+hr{
+  
+    border: 0px;
+}
+
+.my-skills{
+    margin-top: 40px;
+}
